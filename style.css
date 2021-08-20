@@ -1,0 +1,25 @@
+#body{
+    background-color: aquamarine;
+}
+#work{
+   text-align: center;
+}
+
+.carousel-slide{
+    max-width: 100px;
+    max-height: 100px;
+}
+
+body{
+    border: 45px;
+    background-color: red;
+}
+
+.image{
+    max-width: 150px;
+    max-height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
