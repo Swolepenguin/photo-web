@@ -10,16 +10,19 @@
     max-height: 100px;
 }
 
-body{
-    border: 45px;
-    background-color: red;
-}
 
-.image{
-    max-width: 150px;
-    max-height: 150px;
+#cimages{
+    max-width: 100px;
+    max-height: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+ 
 }
